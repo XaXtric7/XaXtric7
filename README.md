@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/user-attachments/assets/6afdd15d-a09e-45d6-bfd8-3af3ecae7239)](https://github.com/XaXtric7)
+[![MasterHead](https://github.com/user-attachments/assets/6afdd15d-a09e-45d6-bfd8-3af3ecae7239)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
@@ -10,7 +10,6 @@
       <img align="center" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/4/1/4/5/2195414_75aa7.gif">
     </td>
     <td>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en" alt="xaxtric7" /></p>
       <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaxtric7&" alt="xaxtric7" /></p>
     </td>
   </tr>
@@ -62,14 +61,11 @@
   </a> 
 </p>
 
-<!-- Aligning the most used languages next to other stats -->
+<!-- Aligning the most used languages next to streak stats -->
 <table>
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact" alt="xaxtric7" />
-    </td>
-    <td>
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en" alt="xaxtric7" /></p>
     </td>
   </tr>
 </table>
