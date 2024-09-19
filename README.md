@@ -1,10 +1,13 @@
-[![MasterHead](https://github.com/user-attachments/assets/6afdd15d-a09e-45d6-bfd8-3af3ecae7239)](https://rishavchanda.io)
+<!-- MasterHead with GIF -->
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6afdd15d-a09e-45d6-bfd8-3af3ecae7239" alt="MasterHead GIF" width="1000" />
+</div>
 
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
 
 <!-- Two-column layout for the GIF and stats -->
-<table>
+<table align="center">
   <tr>
     <td>
       <img align="center" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/4/1/4/5/2195414_75aa7.gif">
