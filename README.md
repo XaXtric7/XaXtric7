@@ -3,14 +3,16 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
 
-<!-- Two-column layout for the GIF and streak stats -->
+<!-- Two-column layout for the GIF and stats -->
 <table>
   <tr>
     <td>
       <img align="center" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/4/1/4/5/2195414_75aa7.gif">
     </td>
     <td>
-      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaxtric7&" alt="xaxtric7" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en" alt="Sarthak's GitHub Stats" /></p>
+      <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaxtric7&" alt="Sarthak's Streak Stats" /></p>
+      <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" /></p>
     </td>
   </tr>
 </table>
@@ -60,20 +62,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-
-<!-- Aligning the most used languages, streak stats, and GitHub repo stats -->
-<table>
-  <tr>
-    <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact" alt="xaxtric7" />
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&count_private=true" alt="xaxtric7" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xaxtric7&repo=YourRepoName&show_owner=true&theme=default" alt="GitHub Repo Stats"/>
-    </td>
-  </tr>
-</table>
