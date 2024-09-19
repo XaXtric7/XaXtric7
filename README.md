@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
 
-<!-- Two-column layout for the GIF and stats -->
+<!-- Two-column layout for the GIF and streak stats -->
 <table>
   <tr>
     <td>
@@ -61,11 +61,19 @@
   </a> 
 </p>
 
-<!-- Aligning the most used languages next to streak stats -->
+<!-- Aligning the most used languages, streak stats, and GitHub repo stats -->
 <table>
   <tr>
     <td>
       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact" alt="xaxtric7" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&count_private=true" alt="xaxtric7" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xaxtric7&repo=YourRepoName&show_owner=true&theme=default" alt="GitHub Repo Stats"/>
     </td>
   </tr>
 </table>
