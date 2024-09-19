@@ -1,5 +1,8 @@
+[![MasterHead](https://github.com/user-attachments/assets/6afdd15d-a09e-45d6-bfd8-3af3ecae7239)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
+<img align="right" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/4/1/4/5/2195414_75aa7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xaxtric7&label=Profile%20views&color=0e75b6&style=flat" alt="xaxtric7" /> </p>
 
