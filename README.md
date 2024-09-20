@@ -1,7 +1,6 @@
 <!-- MasterHead with GIF -->
-<div align="center">
-  <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/d5/d7/02/d5d702b96b92703cc9db3493726db70c.gif">
-</div>
+
+[![MasterHead](https://i.pinimg.com/originals/d5/d7/02/d5d702b96b92703cc9db3493726db70c.gif)]
 
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
