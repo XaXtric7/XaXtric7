@@ -1,6 +1,6 @@
 <!-- MasterHead with GIF -->
 <div align="center">
-  ![Banner gif](https://github.com/user-attachments/assets/917d066a-71f0-4fee-951a-56aa628a8160)
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=1126885137993749068" height="295" width="345" frameborder="0" scrolling="no" ></iframe>
 </div>
 
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
