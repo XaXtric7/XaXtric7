@@ -1,6 +1,6 @@
 <!-- MasterHead with GIF -->
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6afdd15d-a09e-45d6-bfd8-3af3ecae7239" alt="MasterHead GIF" width="1000" />
+  ![Banner gif](https://github.com/user-attachments/assets/917d066a-71f0-4fee-951a-56aa628a8160)
 </div>
 
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" alt="Coding" width="400" src="https://img1.picmix.com/output/stamp/normal/4/1/4/5/2195414_75aa7.gif">
+      <img align="center" alt="Coding" width="400" src="![Rinne Sharingan](https://github.com/user-attachments/assets/87739778-6596-453d-9bf8-73855faf04a2)">
     </td>
     <td>
       <!-- Adding background color to the stats -->
