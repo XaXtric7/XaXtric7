@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" alt="Coding" width="400" src="![Rinne Sharingan](https://github.com/user-attachments/assets/87739778-6596-453d-9bf8-73855faf04a2)">
+      ![Rinne Sharingan](https://github.com/user-attachments/assets/87739778-6596-453d-9bf8-73855faf04a2)"
     </td>
     <td>
       <!-- Adding background color to the stats -->
