@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td>
-      ![Rinne Sharingan](https://github.com/user-attachments/assets/87739778-6596-453d-9bf8-73855faf04a2)
+      <img align="center" alt="Coding" width="400" src="https://drive.google.com/drive/folders/149krSiTzzJH2Bit6dvhpquMlAzKp3pba">
     </td>
     <td>
       <!-- Adding background color to the stats -->
