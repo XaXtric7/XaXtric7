@@ -10,7 +10,7 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" alt="Coding" width="400" src="https://gifyu.com/image/SA9Nq">
+      <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif">
     </td>
     <td>
       <!-- Adding background color to the stats -->
