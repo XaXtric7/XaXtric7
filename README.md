@@ -1,6 +1,6 @@
 <!-- MasterHead with GIF -->
 
-[![MasterHead](https://i.pinimg.com/originals/51/91/da/5191daea9ea913dafdce238e65b01d8b.gif)](https://XaXtic7.io)
+[![MasterHead](<![5191daea9ea913dafdce238e65b01d8b](https://github.com/user-attachments/assets/59a5f627-d213-4d70-8008-04ec357ade6a)>)](https://XaXtic7.io)
 
 <h1 align="center">Hi 👋, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
