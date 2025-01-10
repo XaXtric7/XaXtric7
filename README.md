@@ -36,7 +36,7 @@
 <a href="https://codeforces.com/profile/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xaxtric7" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xaxtric7" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/profiles/76561199530278574/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="XaXtric" height="30" width="40" /></a>
-<a href="https://www.hoyolab.com/accountCenter/postList?id=105807167" target="blank"><img align="center" src="file:///C:/Users/sarth/Downloads/genshin-impact-svgrepo-com.svg" alt="XaXtric" height="30" width="40" /></a>
+<a href="https://www.hoyolab.com/accountCenter/postList?id=105807167" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/ac4e7a4f341e7281b0f6f274f9ec3905.png" alt="XaXtric" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
