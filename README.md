@@ -9,13 +9,17 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif">
+      <img align="center" alt="Coding" width="350" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
     </td>
     <td>
       <!-- Adding background color to the stats -->
-      <div style="background-color: #0d1117; padding: 15px; border-radius: 10px;">
-        <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&theme=dark" alt="Sarthak's GitHub Stats" /></p>
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" /></p>
+      <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+        <p>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&theme=dark" alt="Sarthak's GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
+        </p>
+        <p>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
+        </p>
       </div>
     </td>
   </tr>
