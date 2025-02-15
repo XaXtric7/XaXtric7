@@ -1,6 +1,6 @@
 <!-- MasterHead with GIF -->
 
-![Image](https://github.com/user-attachments/assets/b2ebeb2c-1f51-4e97-8111-d1362131fa66)
+![MasterHead](https://miro.medium.com/max/1400/1*OxT7UjIwhklKE8d8SFyo7g.gif)
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
