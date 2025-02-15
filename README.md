@@ -31,7 +31,7 @@
 
 - 📫 How to reach me **sarthakdharmik10227xix@gmail.com**
 
-- ⚡ Fun fact **I love Anime⛩️, FPS and RPG's🎮 and Football⚽**
+- ⚡ Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
