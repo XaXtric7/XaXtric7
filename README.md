@@ -41,6 +41,7 @@
 <a href="https://instagram.com/xax_sarthak_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xax_sarthak_20" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xaxtric7" height="30" width="40" /></a>
 <a href="https://steamcommunity.com/profiles/76561199530278574/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="XaXtric" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/XaXtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="XaXtric7" height="30" width="40" /></a>
 <a href="https://www.hoyolab.com/accountCenter/postList?id=105807167" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/ac4e7a4f341e7281b0f6f274f9ec3905.png" alt="XaXtric" height="30" width="40" /></a>
 </p>
 
