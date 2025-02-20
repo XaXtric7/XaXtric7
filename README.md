@@ -20,7 +20,7 @@
           <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&theme=dark" alt="Sarthak's GitHub Stats" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
         </p>
         <p>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact&border_radius=10&bg_color=0d1117&text_color=0199d9&title_color=0199d9&icon_color=0cf574" alt="Most Used Languages">
         </p>
       </div>
     </td>
