@@ -72,7 +72,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-![snake gif](https://github.com/XaXtric7/XaXtric7/blob/output/github-contribution-grid-snake.gif)
+
+![snake gif](https://github.com/XaXtric7/XaXtric7/blob/output/github-contribution-grid-snake.svg)
+
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>⚡Activity Graph </b>
 
 <img align="center" src="https://github-readme-activity-graph-flax.vercel.app//graph?username=XaXtric7&theme=react-dark"/>
