@@ -17,10 +17,7 @@
       <!-- Adding background color to the stats -->
       <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
         <p>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&border_radius=10&bg_color=0d1117&text_color=0cf574&title_color=00b3ff&icon_color=0cf574" alt="Sarthak's GitHub Stats">
-        </p>
-        <p>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact&border_radius=10&bg_color=0d1117&text_color=0cf574&title_color=00b3ff&icon_color=0cf574" alt="Most Used Languages">
+          ![XaXtric7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XaXtric7&theme=radical&hide_border=true)
         </p>
       </div>
     </td>
