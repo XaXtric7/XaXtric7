@@ -65,3 +65,4 @@
   </a> 
 </p>
 [![Sarthak's github activity graph](github-readme-activity-graph-dusky-eight.vercel.app/graph?username=XaXtric7&theme=dracula)](https://github.com/XaXtric7/github-readme-activity-graph)
+![Github Activity Graph](<{github-readme-activity-graph-dusky-eight}.vercel.app>/graph?username=<XaXtric7>)
