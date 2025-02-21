@@ -64,4 +64,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XaXtric7&bg_color=000000&color=00aaff&line=00fbff&point=ffffff&area=true&hide_border=true)]
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=XaXtric7&bg_color=000000&color=00aaff&line=00fbff&point=ffffff&area=true&hide_border=true)
