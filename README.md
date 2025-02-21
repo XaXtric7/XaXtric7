@@ -14,7 +14,15 @@
       <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
     </td>
     <td>
-    ![XaXtric7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XaXtric7&theme=radical&hide_border=true)
+      <!-- Adding background color to the stats -->
+      <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+        <p>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&border_radius=10&bg_color=0d1117&text_color=0cf574&title_color=00b3ff&icon_color=0cf574" alt="Sarthak's GitHub Stats">
+        </p>
+        <p>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact&border_radius=10&bg_color=0d1117&text_color=0cf574&title_color=00b3ff&icon_color=0cf574" alt="Most Used Languages">
+        </p>
+      </div>
     </td>
   </tr>
 </table>
