@@ -73,6 +73,6 @@
   </a> 
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> ## ⚡Activity Graph </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>⚡Activity Graph </b>
 
 <img align="center" src="https://github-readme-activity-graph-flax.vercel.app//graph?username=XaXtric7&theme=react-dark"/>
