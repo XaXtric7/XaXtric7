@@ -14,12 +14,7 @@
       <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
     </td>
     <td>
-      <!-- Adding background color to the stats -->
-      <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
-        <p>
-          ![XaXtric7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XaXtric7&theme=radical&hide_border=true)
-        </p>
-      </div>
+    ![XaXtric7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=XaXtric7&theme=radical&hide_border=true)
     </td>
   </tr>
 </table>
@@ -69,3 +64,4 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
 </p>
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=XaXtric7&bg_color=000000&color=00aaff&line=00fbff&point=ffffff&area=true&hide_border=true)]
