@@ -80,7 +80,7 @@
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&?theme=catppuccin_mocha)
 
 <h3><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWdtaWlib3pramV5MXplaWVibXExaGF3d3NreDNrb3pkcTJvZDIyNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qMvgLf5HP1wPG8odE5/giphy.gif" width ="25"> 🐍🍽️ The snake is feasting on my commits! 😱💻🔥</h3>
 
