@@ -11,7 +11,8 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
+      <img align="center" alt="Coding" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" 
+       style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
     </td>
     <td>
       <!-- Adding background color to the stats -->
