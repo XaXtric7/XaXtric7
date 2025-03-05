@@ -37,8 +37,6 @@
 ## <h3><img src="connect.gif" width ="25"><b> Connect with me</b></h3>
 
 <p align="left">
-<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 16 16"><rect width="32" height="32" rx="1" ry="1"/><path fill="#fff" text-anchor="middle" dominant-baseline="middle" d="M12.6.75h2.454l-5.36 6.142L16 15.25h-4.937l-3.867-5.07-4.425 5.07H.316l5.733-6.57L0 .75h5.063l3.495 4.633L12.601.75Zm-.86 13.028h1.36L4.323 2.145H2.865z"/></svg>
-&nbsp;
 <a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sarthakdharmik7" height="40" width="40" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" height="40" width="40" /></a>
