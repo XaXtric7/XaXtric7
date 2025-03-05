@@ -37,7 +37,7 @@
 ## <h3><img src="connect.gif" width ="25"><b> Connect with me</b></h3>
 
 <p align="left">
-<a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sarthakdharmik7" height="40" width="40" /></a>
+<a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/X_logo_2023_original.svg" alt="@sarthakdharmik7" height="40" width="40" /></a>
 &nbsp;
 <a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" height="40" width="40" /></a>
 &nbsp;
