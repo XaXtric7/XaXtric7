@@ -38,6 +38,7 @@
 
 <p align="left">
 <a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sarthakdharmik7" height="40" width="40" /></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" height="40" width="40" /></a>
 <a href="https://stackoverflow.com/users/23373257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23373257" height="40" width="40" /></a>
 <a href="https://instagram.com/xax_sarthak_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xax_sarthak_20" height="40" width="40" /></a>
