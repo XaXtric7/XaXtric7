@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
 
-## <h3><img src="connect.gif" width ="25"><b> Connect with me:</b></h3>
+## <h3><img src="connect.gif" width ="25"><b> Connect with me</b></h3>
 
 <p align="left">
 <a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sarthakdharmik7" height="30" width="40" /></a>
