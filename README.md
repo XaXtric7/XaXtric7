@@ -49,7 +49,7 @@
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,html,css,figma,git,github,js,mysql,nodejs,opencv,py,qt,visualstudio,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,html,css,figma,git,github,js,mysql,nodejs,opencv,py,qt,visualstudio,vscode,latex" />
   </a>
 </p>
 
