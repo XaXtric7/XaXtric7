@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
 
-## <h3><img src="connect.gif" width ="25"><b>Connect with me:</b></h3>
+## <h3><img src="connect.gif" width ="25"><b> Connect with me:</b></h3>
 
 <p align="left">
 <a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@sarthakdharmik7" height="30" width="40" /></a>
@@ -47,7 +47,7 @@
 <a href="https://www.hoyolab.com/accountCenter/postList?id=105807167" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/ac4e7a4f341e7281b0f6f274f9ec3905.png" alt="XaXtric" height="30" width="40" /></a>
 </p>
 
-## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>Languages and Tools </b> </h3>
+## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools </b> </h3>
 
 <p align="left">
   <a href="https://skillicons.dev">
