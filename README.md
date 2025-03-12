@@ -51,6 +51,10 @@
 &nbsp;
 <a href="https://www.hackerrank.com/profile/XaXtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="XaXtric7" height="40" width="40" /></a>
 &nbsp;
+<a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="xax_sarthak7" height="30" width="40" /></a>
+&nbsp;
+<a href="https://codeforces.com/profile/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="xaxtric7" height="30" width="40" /></a>
+&nbsp;
 <a href="https://www.hoyolab.com/accountCenter/postList?id=105807167" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/ac4e7a4f341e7281b0f6f274f9ec3905.png" alt="XaXtric" height="40" width="40" /></a>
 &nbsp;
 </p>
