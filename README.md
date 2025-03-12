@@ -51,7 +51,7 @@
 &nbsp;
 <a href="https://www.hackerrank.com/profile/XaXtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="XaXtric7" height="40" width="40" /></a>
 &nbsp;
-<a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="/codechef svg.svg" alt="xax_sarthak7" height="40" width="40" /></a>
+<a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="/codechef svg.svg" alt="xax_sarthak7" height="43" width="40" /></a>
 &nbsp;
 <a href="https://codeforces.com/profile/xaxtric7" target="blank"><img align="center" src="/codeforces svg.svg" alt="xaxtric7" height="40" width="40" /></a>
 &nbsp;
