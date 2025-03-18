@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-<p align="left"> <img src="https://count.getloli.com/@XaXtric7" alt="XaXtric7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xaxtric7&label=Profile%20views&color=0e75b6&style=flat" alt="xaxtric7" /> </p>
 
 - 📫 How to reach me **sarthakdharmik10227xix@gmail.com**
 
