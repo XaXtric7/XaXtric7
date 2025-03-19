@@ -28,7 +28,7 @@
   </tr>
 </table>
 
-## <h1> Profile Views </h1>
+## <h5> Profile Views </h5>
 
 ![XaXtric7](https://count.getloli.com/@XaXtric7?name=XaXtric7&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=1275)
 
