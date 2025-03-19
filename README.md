@@ -28,7 +28,8 @@
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xaxtric7&label=Profile%20views&color=0e75b6&style=flat" alt="xaxtric7" /> </p>
+<p align="left"> <img src="
+https://count.getloli.com/@XaXtric7?name=XaXtric7&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=1275" alt="xaxtric7" /> </p>
 
 - 📫 How to reach me **sarthakdharmik10227xix@gmail.com**
 
