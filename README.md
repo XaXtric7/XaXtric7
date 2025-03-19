@@ -28,8 +28,7 @@
   </tr>
 </table>
 
-<p align="left"> <img src="
-https://count.getloli.com/@XaXtric7?name=XaXtric7&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=1275" alt="xaxtric7" /> </p>
+![XaXtric7](https://count.getloli.com/@XaXtric7?name=XaXtric7&theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=auto&num=1275)
 
 - 📫 How to reach me **sarthakdharmik10227xix@gmail.com**
 
