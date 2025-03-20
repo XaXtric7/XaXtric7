@@ -30,7 +30,7 @@
 
 ## <h3><img src="eyes.gif" width ="25"> Profile views </h3>
 
-![XaXtric7](https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0&num=1257)
+![XaXtric7](https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
 
 - 📫 How to reach me **sarthakdharmik10227xix@gmail.com**
 
