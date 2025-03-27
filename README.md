@@ -47,11 +47,11 @@
 &nbsp;
 <a href="https://instagram.com/xax_sarthak_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xax_sarthak_20" height="40" width="40" /></a>
 &nbsp;
-<a href="https://www.leetcode.com/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xaxtric7" height="40" width="40" /></a>
-&nbsp;
 <a href="https://steamcommunity.com/profiles/76561199530278574/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="XaXtric" height="40" width="40" /></a>
 &nbsp;
 <a href="https://www.hackerrank.com/profile/XaXtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="XaXtric7" height="40" width="40" /></a>
+&nbsp;
+<a href="https://www.leetcode.com/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xaxtric7" height="40" width="40" /></a>
 &nbsp;
 <a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="/codechef svg.svg" alt="xax_sarthak7" height="43" width="40" /></a>
 &nbsp;
@@ -59,6 +59,7 @@
 &nbsp;
 <a href="https://www.hoyolab.com/accountCenter/postList?id=105807167" target="blank"><img align="center" src="https://cdn2.steamgriddb.com/icon_thumb/ac4e7a4f341e7281b0f6f274f9ec3905.png" alt="XaXtric" height="40" width="40" /></a>
 &nbsp;
+
 </p>
 
 ## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools </b> </h3>
