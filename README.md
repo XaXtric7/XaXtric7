@@ -7,6 +7,10 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
 
+## <h3><img src="trophy.gif" width ="25"> GitHub Achievements </h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=XaXtric7-ma&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!-- Two-column layout for the GIF and stats -->
 <table align="center">
   <tr>
