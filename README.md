@@ -70,7 +70,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,ts,mongodb,express,react,nodejs,mysql,tailwind,py,dart,figma,git,github,opencv,qt,postman,visualstudio,vscode,latex" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,ts,mongodb,express,react,nodejs,nextjs,mysql,tailwind,py,dart,figma,git,github,opencv,qt,postman,visualstudio,vscode,latex" />
   </a>
 </p>
 
