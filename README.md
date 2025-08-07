@@ -72,9 +72,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,ts,mongodb,express,react,nodejs,nextjs,mysql,tailwind,py,dart,figma,git,github,opencv,qt,postman,visualstudio,vscode,latex" />
     </a>
-    <img src="NumPy.svg" width="45" alt="NumPy logo">
-    &nbsp;
-    <img src="Pandas.svg" width="45" alt="Pandas logo">
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>⚡Activity Graph </b>
