@@ -71,8 +71,8 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,ts,mongodb,express,react,nodejs,nextjs,mysql,tailwind,py,dart,figma,git,github,opencv,qt,postman,visualstudio,vscode,latex" />
-    <img src="NumPy.svg">
-    <img src="Pandas.svg">
+    <img src="NumPy.svg" height="40" width="40">
+    <img src="Pandas.svg" height="40" width="40">
   </a>
 </p>
 
