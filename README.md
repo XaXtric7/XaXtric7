@@ -71,10 +71,10 @@
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,html,css,bootstrap,js,ts,mongodb,express,react,nodejs,nextjs,mysql,tailwind,py,dart,figma,git,github,opencv,qt,postman,visualstudio,vscode,latex" />
+    </a>
     <img src="NumPy.svg" height="40" width="40">
     &nbsp;
     <img src="Pandas.svg" height="40" width="40">
-  </a>
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b>⚡Activity Graph </b>
