@@ -12,8 +12,8 @@
 <!-- Temperory fix -->
 <div align = "center">
   <img src="https://trophygh.kolioaris.xyz/?username=XaXtric7&margin-w=10&margin-h=10&no-bg=false&row=1&column=8"></img>
-  <br>
 </div>
+<br>
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=XaXtric7&theme=juicyfresh&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
 
