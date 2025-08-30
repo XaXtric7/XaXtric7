@@ -9,7 +9,11 @@
 
 ## <h3><img src="trophy.gif" width ="22"> GitHub Achievements </h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=XaXtric7&margin-w=10&theme=juicyfresh&rank=-?)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=XaXtric7&theme=juicyfresh&rank=?">
+</div>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=XaXtric7&margin-w=10&theme=juicyfresh&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- Two-column layout for the GIF and stats -->
 <table align="center">
