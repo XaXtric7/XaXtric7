@@ -41,24 +41,32 @@
   </tr>
 </table>
 
-<table align="center">
+<div align="center">
+
+<table>
   <tr>
   <td>
-   <h4><img src="eyes.gif" width ="25"> Profile views </h4>
+  <h4><img src="eyes.gif" width ="25"> Profile views </h4>
 
-![XaXtric7](https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
+  <img src="https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"/>
 
-- 📫How to reach me **sarthakdharmik10227xix@gmail.com**
+      <br><br>
 
-- ⚡Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
+    - 📫How to reach me **sarthakdharmik10227xix@gmail.com**
+    - ⚡Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
+
   </td>
+
   <td>
     <p align="center">
       <img src="miku-cheer.gif" width="250"/>
     </p>
   </td>
+
   </tr>
 </table>
+
+</div>
 
 ## <h3><img src="connect.gif" width ="25"><b> Connect with me</b></h3>
 
