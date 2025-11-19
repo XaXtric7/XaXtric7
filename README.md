@@ -8,7 +8,10 @@
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
 
 <p align="center">
-  <img src="https://miku-host.vercel.app/miku2.gif" alt="MasterHead"/>
+
+![Miku](https://miku-host.vercel.app/miku2.gif)
+
+  <!-- <img src="https://miku-host.vercel.app/miku2.gif" alt="MasterHead"/> -->
 </p>
 
 ## <h3><img src="trophy.gif" width ="22"> GitHub Achievements </h3>
