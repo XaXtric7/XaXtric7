@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ5NjFtYnBscTI4dGYzbTNzemF5Mzh0bXlkNXdjeW90bXQzYTUyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVkFAgSAfhGY7zM2Ao/giphy.gif" alt="MasterHead" width="800"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTJ5NjFtYnBscTI4dGYzbTNzemF5Mzh0bXlkNXdjeW90bXQzYTUyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/oVkFAgSAfhGY7zM2Ao/giphy.gif" alt="MasterHead"/>
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarthak Dharmik</h1>
