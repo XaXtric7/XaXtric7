@@ -41,37 +41,55 @@
   </tr>
 </table>
 
-## <h3><img src="eyes.gif" width ="25"> Profile views </h3>
+<table align="center">
+  <tr>
+    <!-- LEFT SIDE : Profile Views -->
+    <td>
+      <h3>
+        <img src="eyes.gif" width="25"> Profile views
+      </h3>
 
-![XaXtric7](https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
+      <p>
+        <img src="https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0" alt="XaXtric7">
+      </p>
 
-- 📫 How to reach me **sarthakdharmik10227xix@gmail.com**
+      <ul>
+        <li>📫 How to reach me <b>sarthakdharmik10227xix@gmail.com</b></li>
+        <li>⚡ Fun fact <b>🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅</b></li>
+      </ul>
 
-- ⚡ Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
+      <h3>
+        <img src="connect.gif" width="25"><b> Connect with me</b>
+      </h3>
 
-## <h3><img src="connect.gif" width ="25"><b> Connect with me</b></h3>
+      <p align="left">
+        <a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="twitter-x (1).svg" height="40" width="40"></a>
+        &nbsp;
+        <a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40"></a>
+        &nbsp;
+        <a href="https://stackoverflow.com/users/23373257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="40" width="40"></a>
+        &nbsp;
+        <a href="https://instagram.com/xax_sarthak_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="40"></a>
+        &nbsp;
+        <a href="https://steamcommunity.com/profiles/76561199530278574/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" height="40" width="40"></a>
+        &nbsp;
+        <a href="https://www.hackerrank.com/profile/XaXtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="40" width="40"></a>
+        &nbsp;
+        <a href="https://www.leetcode.com/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40"></a>
+        &nbsp;
+        <a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="/codechef svg.svg" height="43" width="40"></a>
+        &nbsp;
+        <a href="https://codeforces.com/profile/xaxtric7" target="blank"><img align="center" src="/codeforces svg.svg" height="40" width="40"></a>
+      </p>
+    </td>
 
-<p align="left">
-<a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="twitter-x (1).svg" alt="@sarthakdharmik7" height="40" width="40" /></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" height="40" width="40" /></a>
-&nbsp;
-<a href="https://stackoverflow.com/users/23373257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23373257" height="40" width="40" /></a>
-&nbsp;
-<a href="https://instagram.com/xax_sarthak_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xax_sarthak_20" height="40" width="40" /></a>
-&nbsp;
-<a href="https://steamcommunity.com/profiles/76561199530278574/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="XaXtric" height="40" width="40" /></a>
-&nbsp;
-<a href="https://www.hackerrank.com/profile/XaXtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="XaXtric7" height="40" width="40" /></a>
-&nbsp;
-<a href="https://www.leetcode.com/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xaxtric7" height="40" width="40" /></a>
-&nbsp;
-<a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="/codechef svg.svg" alt="xax_sarthak7" height="43" width="40" /></a>
-&nbsp;
-<a href="https://codeforces.com/profile/xaxtric7" target="blank"><img align="center" src="/codeforces svg.svg" alt="xaxtric7" height="40" width="40" /></a>
-&nbsp;
+    <!-- RIGHT SIDE : Miku GIF -->
+    <td align="center" valign="middle">
+      <img src="miku-cheer.gif" width="300" alt="Miku Cheer">
+    </td>
 
-</p>
+  </tr>
+</table>
 
 ## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools </b> </h3>
 
