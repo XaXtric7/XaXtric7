@@ -41,7 +41,7 @@
   </tr>
 </table>
 
-<div align="center">
+<div>
 
 <table>
   <tr>
