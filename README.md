@@ -46,23 +46,23 @@
 <table>
   <tr>
   <td>
-  <h4><img src="eyes.gif" width ="25"> Profile views </h4>
+  <h3><img src="eyes.gif" width ="25"> Profile views </h3>
 
   <img src="https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"/>
 
 - 📫How to reach me **sarthakdharmik10227xix@gmail.com**
 - ⚡Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
 
-  </td>
+    </td>
 
-  <td>
-    <p align="center">
-      <img src="miku-cheer.gif" width="250"/>
-    </p>
-  </td>
+    <td>
+      <p align="center">
+        <img src="miku-cheer.gif" width="250"/>
+      </p>
+    </td>
 
-  </tr>
-</table>
+    </tr>
+  </table>
 
 </div>
 
