@@ -54,7 +54,7 @@
   </td>
   <td>
     <p align="center">
-      <img src="miku-cheer.gif" width="300"/>
+      <img src="miku-cheer.gif" width="250"/>
     </p>
   </td>
   </tr>
