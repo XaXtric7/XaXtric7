@@ -46,7 +46,7 @@
 <table>
   <tr>
   <td>
-  <h3><img src="eyes.gif" width ="25"> Profile views </h3>
+  <h3 style="margin-top: 0;"><img src="eyes.gif" width ="25"> Profile views </h3>
 
   <img src="https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"/>
 
