@@ -50,10 +50,8 @@
 
   <img src="https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"/>
 
-      <br><br>
-
-    - 📫How to reach me **sarthakdharmik10227xix@gmail.com**
-    - ⚡Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
+- 📫How to reach me **sarthakdharmik10227xix@gmail.com**
+- ⚡Fun fact **🌸I love Anime⛩️, 🔫FPS🏆, ⚔️RPG's🎮 and ⚽Football🥅**
 
   </td>
 
