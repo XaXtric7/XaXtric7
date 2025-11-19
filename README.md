@@ -44,8 +44,7 @@
 <table>
   <tr>
   <td>
-    
-  ## <h3><img src="eyes.gif" width ="25"> Profile views </h3>
+   <h3><img src="eyes.gif" width ="25"> Profile views </h3>
 
 ![XaXtric7](https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0)
 
@@ -55,7 +54,7 @@
   </td>
   <td>
     <p align="center">
-      <img src="miku-cheer.gif" width="480"/>
+      <img src="miku-cheer.gif" width="400"/>
     </p>
   </td>
   </tr>
