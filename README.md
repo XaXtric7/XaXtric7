@@ -49,7 +49,7 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="60%">
       <h3>
         <img src="eyes.gif" width="25"> Profile views
       </h3>
@@ -57,7 +57,7 @@
       <p>📫 How to reach me <b>sarthakdharmik10227xix@gmail.com</b></p>
       <p>⚡ Fun fact <b>🌸 I love Anime ⛩️, 🔫 FPS 🏆, ⚔️ RPGs 🎮 and ⚽ Football 🥅</b></p>
     </td>
-    <td width="50%" align="center">
+    <td width="40%" align="center">
       <img src="miku-cheer.gif" width="250"/>
     </td>
   </tr>
