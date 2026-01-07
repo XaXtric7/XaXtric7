@@ -31,10 +31,10 @@
       <!-- Adding background color to the stats -->
       <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
     <p>
-        <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=xaxtric7&show_icons=true&locale=en&border_radius=10&bg_color=0d1117&text_color=0cf574&title_color=00b3ff&icon_color=00b3ff" alt="Sarthak's GitHub Stats">
+        <img align="center" width="100%" src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical" alt="Sarthak's GitHub Stats">
     </p>
     <p>
-        <img align="center" width="95%" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaxtric7&show_icons=true&locale=en&layout=compact&border_radius=10&bg_color=0d1117&text_color=0cf574&title_color=00b3ff&icon_color=0cf574" alt="Most Used Languages">
+        <img align="center" width="95%" src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical" alt="Most Used Languages">
     </p>
 </div>
     </td>
