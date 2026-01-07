@@ -21,31 +21,22 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=XaXtric7&margin-w=10&theme=juicyfresh&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- Two-column layout for the GIF and stats -->
-<table align="center" width="100%" cellspacing="0" cellpadding="0">
+<table align="center">
   <tr>
-    <td width="50%" valign="middle">
-      <img
-        src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif"
-        alt="Coding"
-        style="
-          width: 100%;
-          height: 260px;
-          object-fit: cover;
-          border-radius: 8px;
-        "
-      >
+    <td>
+      <img align="center" alt="Coding" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" 
+       style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
     </td>
-    <td width="50%" valign="middle">
-      <img
-        src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical"
-        style="width: 100%;"
-        alt="GitHub Stats"
-      >
-      <img
-        src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical"
-        style="width: 100%;"
-        alt="Top Languages"
-      >
+    <td>
+      <!-- Adding background color to the stats -->
+      <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+        <p>
+            <img align="center" width="100%" src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical" alt="Sarthak's GitHub Stats">
+        </p>
+        <p>
+            <img align="center" width="95%" src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical" alt="Most Used Languages">
+        </p>
+      </div>
     </td>
   </tr>
 </table>
