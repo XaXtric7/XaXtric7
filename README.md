@@ -24,7 +24,7 @@
 <table align="center">
   <tr>
     <td>
-      <img align="center" alt="Coding" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" 
+      <img align="center" alt="Coding" src="tenor.gif" 
        style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </td>
     <td>
