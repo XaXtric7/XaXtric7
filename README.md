@@ -25,20 +25,25 @@
   <tr>
     <td width="50%" valign="middle">
       <img
-        alt="Coding"
         src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif"
-        style="width: 100%; height: auto; border-radius: 8px;"
+        alt="Coding"
+        style="
+          width: 100%;
+          height: 260px;
+          object-fit: cover;
+          border-radius: 8px;
+        "
       >
     </td>
     <td width="50%" valign="middle">
       <img
         src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical"
-        style="width: 100%; height: auto;"
+        style="width: 100%;"
         alt="GitHub Stats"
       >
       <img
         src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical"
-        style="width: 100%; height: auto;"
+        style="width: 100%;"
         alt="Top Languages"
       >
     </td>
