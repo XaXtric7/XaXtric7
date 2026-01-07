@@ -7,10 +7,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sarthak Dharmik</h1>
 <h3 align="center">Studying Electronics and Computer Engineering</h3>
 
-<p align="center">
-  <img src="CyberpunkEDGR_gif(720)M.gif"/>
-</p>
-
 ## <h3><img src="trophy.gif" width ="22"> GitHub Achievements </h3>
 
 <div>
