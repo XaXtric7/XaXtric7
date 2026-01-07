@@ -25,16 +25,16 @@
   <tr>
     <td>
       <img align="center" alt="Coding" src="https://i.pinimg.com/originals/a6/50/b2/a650b23a1f94f4f19d5cf056735c9892.gif" 
-       style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(255, 255, 255, 0.1);">
+       style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </td>
     <td>
       <!-- Adding background color to the stats -->
-      <div align="center" style="background-color: #0d1117; padding: 20px; border-radius: 10px;">
+      <div align="center" style="background-color: #000000ff; padding: 10px; border-radius: 10px;">
         <p>
             <img align="center" width="100%" src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical" alt="Sarthak's GitHub Stats">
         </p>
         <p>
-            <img align="center" width="95%" src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical" alt="Most Used Languages">
+            <img align="center" width="100%" src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical" alt="Most Used Languages">
         </p>
       </div>
     </td>
