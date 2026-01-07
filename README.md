@@ -54,12 +54,12 @@
         <img src="eyes.gif" width="25"> Profile views
       </h3>
       <img src="https://count.getloli.com/@XaXtric7?theme=booru-lewd&padding=5&offset=0&align=top&scale=1&pixelated=1&darkmode=0"/>
-      <br>
       <p>📫 How to reach me <b>sarthakdharmik10227xix@gmail.com</b></p>
       <p>⚡ Fun fact <b>🌸 I love Anime ⛩️, 🔫 FPS 🏆, ⚔️ RPGs 🎮 and ⚽ Football 🥅</b></p>
     </td>
     <td width="40%" align="center">
-      <img src="miku-cheer.gif" width="250"/>
+      <!-- <img src="miku-cheer.gif" width="250"/> -->
+      <img src="rem-rezero.gif" width="250"/>
     </td>
   </tr>
 </table>
