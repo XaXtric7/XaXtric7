@@ -47,7 +47,7 @@
 
 <div align="center">
 
-<table>
+<table align="center" width="100%">
   <tr>
   <td>
   <h3><img src="eyes.gif" width ="25"> Profile views </h3>
