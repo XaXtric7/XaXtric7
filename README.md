@@ -59,7 +59,7 @@
     </td>
     <td width="40%" align="center">
       <!-- <img src="miku-cheer.gif" width="250"/> -->
-      <img src="rem-rezero.gif" width="250"/>
+      <img src="rem-rezero.gif" width="300"/>
     </td>
   </tr>
 </table>
