@@ -20,7 +20,7 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img alt="Coding" src="tenor.gif"
+      <img alt="Coding" src="ada.gif"
        style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </td>
     <td width="50%" align="center">
