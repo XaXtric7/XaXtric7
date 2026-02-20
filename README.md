@@ -17,14 +17,14 @@
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=XaXtric7&margin-w=10&theme=juicyfresh&rank=-?)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <!-- Two-column layout for the GIF and stats -->
-<table align="center" width="100%" style="height: 450px;">
+<table align="center" width="100%">
   <tr>
-    <td width="50%" align="center" style="height: 100%;">
+    <td width="50%" align="center">
       <img alt="Coding" src="2222.png"
-           style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+       style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     </td>
-    <td width="50%" align="center" style="height: 100%;">
-      <div style="background-color: #000000ff; padding: 10px; border-radius: 10px; width: 100%; height: 100%;">
+    <td width="50%" align="center">
+      <div style="background-color: #000000ff; padding: 10px; border-radius: 10px; width: 100%;">
         <p>
           <img width="100%"
                src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical"
