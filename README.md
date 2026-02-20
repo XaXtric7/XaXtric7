@@ -19,23 +19,29 @@
 <!-- Two-column layout for the GIF and stats -->
 <table align="center" width="100%">
   <tr>
+    <!-- Left Image -->
     <td width="50%" align="center">
-      <img alt="Coding" src="1111.png"
-       style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+      <img src="2222.png" width="100%" style="border-radius:10px;">
     </td>
+    <!-- Right Column -->
     <td width="50%" align="center">
-      <div style="background-color: #000000ff; padding: 10px; border-radius: 10px; width: 100%;">
-        <p>
-          <img width="100%"
-               src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical"
-               alt="Sarthak's GitHub Stats">
-        </p>
-        <p>
-          <img width="100%"
-               src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical"
-               alt="Most Used Languages">
-        </p>
-      </div>
+      <table width="100%">
+        <tr>
+          <td align="center">
+            <img width="100%"
+              src="https://github-stats-lilac-sigma.vercel.app/api?username=XaXtric7&show_icons=true&theme=radical">
+          </td>
+        </tr>
+        <tr>
+          <td height="20"></td> <!-- spacing -->
+        </tr>
+        <tr>
+          <td align="center">
+            <img width="100%"
+              src="https://github-stats-lilac-sigma.vercel.app/api/top-langs?username=XaXtric7&show_icons=true&theme=radical">
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
