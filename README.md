@@ -67,7 +67,7 @@
 <p align="center">
 
   <a href="https://x.com/xax_sarthak7">
-    <img src="twitterx.svg" width="40" style="display: block;">
+    <img src="twitterx.svg" width="40" style="vertical-align: middle;">
   </a>
   &nbsp;&nbsp;&nbsp;
 
