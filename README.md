@@ -63,8 +63,8 @@
 ## <h3><img src="connect.gif" width ="25"><b> Connect with me</b></h3>
 
 <p align="left">
-<a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="twitter-x (1).svg" alt="@sarthakdharmik7" height="40" width="40" /></a>
-
+<a href="https://x.com/xax_sarthak7" target="blank"><img align="center" src="twitterx.svg" alt="@sarthakdharmik7" height="40" width="40" /></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/" height="40" width="40" /></a>
 &nbsp;
 <a href="https://stackoverflow.com/users/23373257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23373257" height="40" width="40" /></a>
@@ -77,11 +77,10 @@
 &nbsp;
 <a href="https://www.leetcode.com/xaxtric7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xaxtric7" height="40" width="40" /></a>
 &nbsp;
-<a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="/codechef svg.svg" alt="xax_sarthak7" height="43" width="40" /></a>
+<a href="https://www.codechef.com/users/xax_sarthak7" target="blank"><img align="center" src="codechef.svg" alt="xax_sarthak7" height="43" width="40" /></a>
 &nbsp;
-<a href="https://codeforces.com/profile/xaxtric7" target="blank"><img align="center" src="/codeforces svg.svg" alt="xaxtric7" height="40" width="40" /></a>
+<a href="https://codeforces.com/profile/xaxtric7" target="blank"><img align="center" src="codeforces.svg" alt="xaxtric7" height="40" width="40" /></a>
 &nbsp;
-
 </p>
 
 ## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools </b> </h3>
