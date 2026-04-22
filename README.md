@@ -61,37 +61,55 @@
 </div>
 
 <h3>
-<img src="connect.gif" width="25"> <b>Connect with me</b>
+  <img src="connect.gif" width="25"> <b>Connect with me</b>
 </h3>
 
-<p align="left">
+<p align="center">
+
   <a href="https://x.com/xax_sarthak7">
-    <img src="twitterx.svg" width="40" style="margin: 0 15px;">
+    <img src="twitterx.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://stackoverflow.com/users/23373257">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://instagram.com/xax_sarthak_20">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://steamcommunity.com/profiles/76561199530278574/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" style="margin: 0 15px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.hackerrank.com/profile/XaXtric7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.leetcode.com/xaxtric7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" style="margin: 0 15px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://www.codechef.com/users/xax_sarthak7">
-    <img src="codechef.svg" width="40" style="margin: 0 15px;">
+    <img src="codechef.svg" width="40" style="vertical-align: middle;">
   </a>
+  &nbsp;&nbsp;&nbsp;
+
   <a href="https://codeforces.com/profile/xaxtric7">
-    <img src="codeforces.svg" width="40" style="margin: 0 15px;">
+    <img src="codeforces.svg" width="40" style="vertical-align: middle;">
   </a>
+
 </p>
 
 ## <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Languages and Tools </b> </h3>
