@@ -60,10 +60,8 @@
 </table>
 </div>
 
-## <h3>
-
+<h3>
 <img src="connect.gif" width="25"> <b>Connect with me</b>
-
 </h3>
 
 <p align="left">
