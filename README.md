@@ -64,33 +64,33 @@
 <img src="connect.gif" width="25"> <b>Connect with me</b>
 </h3>
 
-<p align="center">
+<p align="left">
   <a href="https://x.com/xax_sarthak7">
-    <img src="twitterx.svg" width="40" style="margin: 0 8px;">
+    <img src="twitterx.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://www.linkedin.com/in/sarthak-dharmik-289b392a8/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 0 8px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://stackoverflow.com/users/23373257">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" style="margin: 0 8px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://instagram.com/xax_sarthak_20">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" style="margin: 0 8px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://steamcommunity.com/profiles/76561199530278574/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" style="margin: 0 8px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://www.hackerrank.com/profile/XaXtric7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" style="margin: 0 8px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://www.leetcode.com/xaxtric7">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" style="margin: 0 8px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://www.codechef.com/users/xax_sarthak7">
-    <img src="codechef.svg" width="40" style="margin: 0 8px;">
+    <img src="codechef.svg" width="40" style="margin: 0 15px;">
   </a>
   <a href="https://codeforces.com/profile/xaxtric7">
-    <img src="codeforces.svg" width="40" style="margin: 0 8px;">
+    <img src="codeforces.svg" width="40" style="margin: 0 15px;">
   </a>
 </p>
 
