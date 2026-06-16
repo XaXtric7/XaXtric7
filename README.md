@@ -21,7 +21,7 @@
   <tr>
     <td width="50%" align="center">
       <img alt="Coding" src="Guts.jpg"
-       style="width: 100%; max-width: 400px; height: auto; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+       style="width: auto; height: auto; border-radius: 10px;">
     </td>
     <td width="50%" align="center">
       <div style="background-color: #000000ff; padding: 10px; border-radius: 10px; width: 100%;">
