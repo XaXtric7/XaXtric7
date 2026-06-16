@@ -96,7 +96,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.leetcode.com/xaxtric7">
+  <a href="https://leetcode.com/u/XaXtric7/">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" style="vertical-align: middle;">
   </a>
   &nbsp;&nbsp;&nbsp;
